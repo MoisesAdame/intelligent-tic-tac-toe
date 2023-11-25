@@ -1,4 +1,4 @@
-# intelligent-tic-tac-toe
+# intelligent-tic-tac-toe ([Try it!](https://moisesadame.github.io/intelligent-tic-tac-toe/))
 🧠 An AI powered Tic-Tac-Toe
 
 ## Overview
